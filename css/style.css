@@ -1,0 +1,35 @@
+/* Do not edit or add CSS */
+
+body {
+	font-family: "Open Sans";
+	color: #ccc;
+}
+
+header {
+	background: tomato;
+	height: 100vh; 
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.card {
+	background: white; 
+	border-radius: 5px; 
+	width: 50%; 
+	padding: 5%;
+}
+
+.card p {
+	line-height: 1.5;
+}
+
+.button {
+	display: inline-block;
+	background: tomato;
+	color: white; 
+	text-decoration: none;
+	padding: 3%;
+	margin-top: 3%;
+	border-radius: 5px; 
+}
